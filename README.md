@@ -3,8 +3,9 @@ Completely overhaul the GUI of Minecraft Java Edition.
 
 ## Hi there!
 
-Welcome to the official GUI Overhaul's GitHub repository where you can find assets.
+Welcome to the official GUI Overhaul's GitHub repository where you can find assets and sources.
 If you encounted any bugs or want to improve this pack, please tell me and your suggestion may appear in the next update.
+Visit and download GUI Overhaul at: https://modrinth.com/resourcepack/gui-overhaul.
 
 ## About
 
