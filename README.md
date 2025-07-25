@@ -1,13 +1,15 @@
 # GUI Overhaul
 Completely overhaul the GUI of Minecraft Java Edition.
 
-## Hi there!
+## 👋Hi there!
 
 Welcome to the official GUI Overhaul's GitHub repository where you can find assets and sources.
+
 If you encounted any bugs or want to improve this pack, please tell me and your suggestion may appear in the next update.
+
 Visit and download GUI Overhaul at: https://modrinth.com/resourcepack/gui-overhaul.
 
-## About
+## 📗About
 
 _I wanna try the new UI that features in Bedrock Edition, so that's why I made this pack._
 
@@ -15,7 +17,7 @@ _I wanna try the new UI that features in Bedrock Edition, so that's why I made t
 
 This pack comes with 2 color modes: Default and Dark, supports custom inventory screens likes barrel, ender chest and shulker boxes by using OptiGUI (most recommended) or Optifine.
 
-## Compatibility
+## 🔧Compatibility
 
 Minecraft: Java Edition **1.20.2 -> 1.21.7** is supported for this resource pack.
 ### 🛠️ Total mod support: 22
