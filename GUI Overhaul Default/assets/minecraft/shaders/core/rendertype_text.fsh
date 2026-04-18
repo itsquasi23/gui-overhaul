@@ -1,3 +1,5 @@
+// Code inspired by Default Dark Mode resource pack, with some adjustments.
+
 #version 330
 
 #moj_import <minecraft:fog.glsl>
