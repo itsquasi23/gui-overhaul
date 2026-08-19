@@ -1,5 +1,5 @@
 # GUI Overhaul
-Ore UI for Java Edition, with a twist of colorful containers!
+Overhaul the Java Edition GUI, inspired by Bedrock's Ore UI!
 
 ## 👋Introduction
 
