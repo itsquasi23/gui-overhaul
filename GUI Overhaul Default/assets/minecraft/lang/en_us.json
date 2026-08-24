@@ -1,21 +1,30 @@
 {
-  "options.clouds.fancy": "§aFancy",
-  "options.clouds.fast": "§eFast",
-  "options.difficulty.easy": "§aEasy",
-  "options.difficulty.hard": "§cHard",
-  "options.difficulty.normal": "§eNormal",
+  "selectWorld.gameMode.survival": "§6Survival",
+  "selectWorld.gameMode.hardcore": "§4Hardcore",
+  "selectWorld.gameMode.creative": "§3Creative",
+  "selectWorld.gameMode.spectator": "§7Spectator",
+
   "options.difficulty.peaceful": "§bPeaceful",
-  "options.graphics.fabulous": "§dFabulous!",
-  "options.graphics.fancy": "§aFancy",
+  "options.difficulty.easy": "§5Easy",
+  "options.difficulty.normal": "§dNormal",
+  "options.difficulty.hard": "§cHard",
+
   "options.graphics.fast": "§eFast",
+  "options.graphics.fancy": "§aFancy",
+  "options.graphics.fabulous": "§dFabulous!",
+
+  "options.clouds.fast": "§eFast",
+  "options.clouds.fancy": "§aFancy",
+
   "options.narrator.all": "§aNarrates All",
   "options.narrator.chat": "§aNarrates Chat",
-  "options.narrator.notavailable": "§aNot Available",
-  "options.narrator.off": "§cOFF",
+  "options.narrator.notavailable": "§cNot Available",
+  "options.narrator.off": "&7OFF",
   "options.narrator.system": "§aNarrates System",
-  "options.off": "§cOFF",
+
   "options.on": "§aON",
-  
+  "options.off": "§7OFF",
+
   "container.barrel": "§fBarrel",
   "container.beacon": "§fBeacon",
   "container.beehive.bees": "Bees: %s / %s",
